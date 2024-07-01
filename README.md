@@ -1,14 +1,14 @@
 <img align="center" alt="Coding" width="100%" height="350" src="https://e1.pxfuel.com/desktop-wallpaper/90/391/desktop-wallpaper-evening-sun-rays-in-2022-red-anime-scenery.jpg">
 
 <h1 align="center">Hi 👋, I'm Hari Priya Radhika Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haripriya75&label=Profile%20views&color=0e75b6&style=flat" alt="haripriya75" /> </p>
 
 <p align="left"> <a href="https://twitter.com/haripriya_rad28" target="blank"><img src="https://img.shields.io/twitter/follow/haripriya_rad28?logo=twitter&style=for-the-badge" alt="haripriya_rad28" /></a> </p>
 
-- 🌱 I’m currently on my journey to learn different web frameworks and languages.
+- 🌱 I’m currently on my journey to learn different web languages and frameworks. Exploring the tech world!
 
 - 📫 How to reach me **haripriyaradhika28@gmail.com**
 
