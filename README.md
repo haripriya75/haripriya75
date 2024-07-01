@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **haripriyaradhika28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pWE4P8BsRHv8A9FGKdOhqNXGZd3mZo3B/view?usp=sharing](https://drive.google.com/file/d/1pWE4P8BsRHv8A9FGKdOhqNXGZd3mZo3B/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12wNPnJnkpG89k5qaQHPOsaYRKURiAwIt/view?usp=sharing)
 
 - ⚡ Fun fact **I like anime**
 
